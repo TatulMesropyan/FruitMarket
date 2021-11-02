@@ -1,0 +1,69 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.productsImg{
+  padding-left: 45%;
+  width: 200px;
+}
+.button{
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #04AA6D;
+  color:rgb(0, 0, 0);
+  padding: 10px 28px;
+  font-size: medium;
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+}
+.button:hover{
+  background-color:grey;
+  color: white;
+}
+.appleDescription{
+
+  margin: left 10rem;
+  font-size: medium;
+  font-style: italic;
+  text-indent: 67em; 
+    text-align:right; 
+    padding-top:2rem;
+    
+}
+.cherryDescription{
+  
+  font-size: large;
+  font-style: italic;
+  text-indent: 65em; 
+    text-align:right; 
+    padding-top:2rem;
+}
+.peachDescription{
+  font-size: large;
+  font-style: italic;
+  text-indent: 65em; 
+  padding-top:2rem;
+    text-align:right; 
+}
+.headWord{
+ background-size:150px;
+ padding-top: 25px;
+ font-size: large;
+ text-align: center;
+ font-family: cursive;
+ background-color:#DEE049;
+} 
+
+
