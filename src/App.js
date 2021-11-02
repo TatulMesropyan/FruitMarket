@@ -16,7 +16,7 @@ const products = [
   },
   {
     name: "Peach",
-    cost: "2$/kilo", 
+    cost: "5$/kilo", 
     image: "https://cdn-icons-png.flaticon.com/512/4191/4191658.png",
     description: "A peach is a very sweet, juicy fruit with an edible peel and a hard pit in the middle. Peaches vary in color from almost white to yellow and pinkish- red. Peaches grow on trees in temperate climates — they need warm weather."
   },
